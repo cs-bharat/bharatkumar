@@ -1,4 +1,6 @@
-# Bharatkumar
+# Bharatkumar 
+
+      hi, i am Bharat Kumar
 
 🌱 I’m currently learning Web Development 
    and other programming languages.
