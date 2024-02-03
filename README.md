@@ -1,15 +1,5 @@
-# Bharatkumar 
 
-     Hi , i am Bharat Kumar   
- 
-🌱 I’m currently learning Web Development 
-   and other programming languages.
-
-📫 How to reach me bharatkumar41m@gmail.com
-
-⚡ Fun fact :- Food and Music🎵 are 
-    the reasons to live.
-<h1 align="center">Hi 👋, I'm Dinesh Prajapati</h1>
+<h1 align="center">Hi 👋, I'm Bharat Kumar</h1>
 <!-- <h3 align="center">Student at   🌟.</h3> -->
 
 <br>
@@ -25,7 +15,7 @@
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
-- 📫 How to reach me **dinesheth41@gmail.com**
+- 📫 How to reach me **bharatkumar41m@gmail.com**
 
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
@@ -54,4 +44,4 @@
 
 
 
-[dineshEth](https://github.com/dineshEth)
+[dineshEth]()
